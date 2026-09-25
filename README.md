@@ -28,16 +28,17 @@ omarchy theme install https://github.com/sumdahl/omarchy-neon-rain-theme
 
 ## Wallpapers
 
-- `00-ramen-sign.jpg`: original, made for this theme.
-- `01-puddle-reflections.jpg`: PattayaPatrol, *Neon-lit city street at night reflected in a rain puddle*, CC BY-SA 4.0.
-- `02-vending.jpg`: Andrea Belvedere, *Vending*, CC BY 2.0.
-- `03-golden-gai.jpg`: original, made for this theme.
-- `04-typhoon-night.jpg`: John Seb Barber, *Typhoon Koppu time*, CC BY 2.0.
-- `05-vending-machines-tokyo.jpg`: LHOON, *Vending machines at night in Tokyo*, CC BY-SA 2.0.
-- `06-receipt.jpg`: original, made for this theme.
-- `07-wet-street.jpg`: PattayaPatrol, *A wet city street at night, shopfronts and illuminated signs reflecting in puddles*, CC BY-SA 4.0.
+- `00-ramen-sign.jpg`, `09-rain-on-glass.jpg`: original, made for this theme.
+- `01-puddle-reflections.jpg`: PattayaPatrol, *Neon-lit city street at night reflected in a rain puddle* (Wikimedia Commons), CC BY-SA 4.0. Cropped.
+- `02-nathan-road-typhoon.jpg`: John Seb Barber, *Nathan Road during a typhoon*, CC BY 2.0. Cropped.
+- `03-vending-machines.jpg`: Andrea Belvedere, *Vending*, CC BY 2.0. Cropped.
+- `04-shinjuku-train.jpg`: Stephen Kelly, *Shinjuku Neon Lights and Passing Train*, CC BY 2.0. Cropped.
+- `05-mong-kok.jpg`: Benh LIEU SONG, *Mong Kok Neon Signs Night*, CC BY-SA 2.0. Shown as a framed print.
+- `06-portland-street.jpg`: Benlisquare, *LED and neon signs on Portland Street at night*, CC BY-SA 4.0. Shown as a framed print.
+- `07-kabukicho.jpg`: Basile Morin, *Colorful neon street signs in Kabukichō, Shinjuku, Tokyo*, CC BY-SA 4.0. Shown as a framed print.
+- `08-shinjuku-blue-hour.jpg`: Basile Morin, *Buildings with colorful neon street signs at blue hour, Shinjuku, Tokyo*, CC BY-SA 4.0. Shown as a framed print.
 
-Photos are shown as taken, via Wikimedia Commons.
+The modified CC BY-SA images are shared under the same licenses.
 
 ## License
 
